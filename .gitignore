@@ -1,0 +1,23 @@
+# Cached and compiled files
+*.pyc
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+!*template.ipynb
+
+# poetry lock files
+poetry.lock
+
+# virtual environment
+.venv/
+
+# Editor-data
+.vscode/
+
+# System-data
+.DS_Store
+
+# data folder
+data/
